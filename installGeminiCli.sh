@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Install Gemini-CLi
 # Function to install NVM
 install_nvm() {
     echo "Installing nvm..."
